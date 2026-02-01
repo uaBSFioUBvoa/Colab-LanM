@@ -1,5 +1,5 @@
 # Colab-LanM
-LanM lithium editing
+LanM RFDiffusion settings
 
 
 

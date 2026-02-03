@@ -2,6 +2,8 @@
 LanM RFDiffusion settings
 
 
+Computational design protocols ran on Google Colab cloud infrastructure, utilizing an NVIDIA T4 Tensor Core GPU.
+
 
 
 
